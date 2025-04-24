@@ -35,6 +35,7 @@ The authors do not take responsibility for how this tool is used.
 [ Account Creation ] → [ Bonus Claim ] → [ Simulated Play ] → [ Logout or Abandon ]
 ↓                     ↓                     ↓
 [ VM / IP Rotation ]   [ Behavioral Randomizer ]   [ KYC Stress / Server Load ]
+
 Each run costs the casino money.
 No profit extraction required.
 Repeatable, scalable, and modular.
