@@ -1,0 +1,7 @@
+# Configuration file for LoopBreaker bot
+
+casino_url: "https://example-casino.com/signup"  # Replace with actual target
+min_delay: 1  # Minimum delay between actions (in seconds)
+max_delay: 3  # Maximum delay between actions (in seconds)
+proxy_api_url: ""  # Optional: Your proxy provider API URL for IP rotation
+use_headless: true  # Run browser in headless mode
