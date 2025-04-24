@@ -1,2 +1,3 @@
 # LoopBreaker
-Automated framework to exploit online casino bonus systems
+Loop-based casion bonus exoloitation bot. Born from the system, built to break it.
+
