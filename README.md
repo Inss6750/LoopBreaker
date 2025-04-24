@@ -1,5 +1,7 @@
 # LoopBreaker
-Loop-based casion bonus exoloitation bot. Born from the system, built to break it.
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Status](https://img.shields.io/badge/status-prototype-orange)
+
 
 *Exploit the exploiters.* 
 A structural response to unlawful online casino operations. This project offers an automated framework for exploiting promotional bonus systems in a way that generates consistent cost for the casino — not the user.
@@ -41,9 +43,9 @@ The authors do not take responsibility for how this tool is used.
 ---
 
 ## How it Works (Concept Overview)
-[ Account Creation ] → [ Bonus Claim ] → [ Simulated Play ] → [ Logout or Abandon ]
-↓                     ↓                     ↓
-[ VM / IP Rotation ]   [ Behavioral Randomizer ]   [ KYC Stress / Server Load ]
+**[ Account Creation ] → [ Bonus Claim ] → [ Simulated Play ] → [ Logout or Abandon ]
+  ↓                     ↓                     ↓
+  [ VM / IP Rotation ]   [ Behavioral Randomizer ]   [ KYC Stress / Server Load ]**
 
 Each run costs the casino money.
 No profit extraction required.
